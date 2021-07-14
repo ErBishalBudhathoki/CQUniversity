@@ -1,0 +1,15 @@
+﻿,,,Male,Male,Male,Male,Male,Male,Male,Male,Female,Female,Female,Female,Female,Female,Female,Female
+,,,50-54 ,50-54 ,55-59 ,55-59 ,60-64 ,60-64 , over 65, over 65,50-54,50-54,55-59 ,55-59 ,60-64,60-64, over 65, over 65
+SA3code,Name,Income,Employed,Other,Employed,Other,Employed,Other,Employed,Other,Employed,Other,Employed,Other,Employed,Other,Employed,Other
+50101,Augusta - Margaret River - Busselton,Negative/Nil income,0,5,0,0,3,0,0,0,0,0,0,3,0,0,0,0
+50101,Augusta - Margaret River - Busselton,$1-$399,5,5,0,9,0,6,0,16,3,8,7,9,3,9,0,43
+50101,Augusta - Margaret River - Busselton,$400-$599,7,0,5,7,0,3,3,9,5,4,9,7,3,8,3,19
+50101,Augusta - Margaret River - Busselton,$600-$999,17,0,7,6,6,0,6,5,13,0,11,0,12,0,0,3
+50102,Bunbury,Negative/Nil income,3,4,0,4,0,3,0,0,0,5,0,0,0,3,0,0
+50102,Bunbury,$1-$399,5,15,4,15,3,11,4,28,6,12,8,15,3,16,3,105
+50102,Bunbury,$400-$599,9,11,7,8,3,3,29,52,9,10,16,8,9,6,7,82
+50102,Bunbury,$600-$999,37,0,20,4,20,7,6,0,13,0,23,0,16,0,0,11
+50103,Manjimup,Negative/Nil income,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50103,Manjimup,$1-$399,3,11,3,5,4,7,0,8,4,7,3,7,5,7,0,4
+50103,Manjimup,$400-$599,5,0,3,3,0,0,0,11,3,3,4,3,4,6,0,11
+50103,Manjimup,$600-$999,8,0,6,5,0,3,0,0,6,0,8,0,0,3,3,3
